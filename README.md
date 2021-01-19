@@ -5,7 +5,7 @@ This repository shows how Dropout can help in eliminating overfitting Problem.
 ## Dataset Used: 
 
 <p align="center">
-  <img src="https://github.com/vedantgoswami/OverFitting-Problem/blob/main/Images/dataset.png">
+  <img src="https://github.com/vedantgoswami/Solution-to-OverFitting-Problem/blob/main/Images/dataset.png">
 </p>
 
 <p>
@@ -13,7 +13,7 @@ This repository shows how Dropout can help in eliminating overfitting Problem.
 </p>
 
 <p align="center">
-  <img src="https://github.com/vedantgoswami/OverFitting-Problem/blob/main/Images/overfitting.png">
+  <img src="https://github.com/vedantgoswami/Solution-to-OverFitting-Problem/blob/main/Images/overfitting.png">
 </p>
 <p>
   <h3> What is the Problem ? </h3>
@@ -35,12 +35,12 @@ Dropout method randomly drops neurons from the neural network during training in
 <h3> The Below visualization shows how dropout works</h3>
 
 <p align="center">
-  <img src="https://github.com/vedantgoswami/OverFitting-Problem/blob/main/Images/GIF.gif">
+  <img src="https://github.com/vedantgoswami/Solution-to-OverFitting-Problem/blob/main/Images/GIF.gif">
 </p>
 
 <h3> I have also used the dropout and here is how my model performed </h3>
 <p align="center">
-  <img src="https://github.com/vedantgoswami/OverFitting-Problem/blob/main/Images/dropout.png">
+  <img src="https://github.com/vedantgoswami/Solution-to-OverFitting-Problem/blob/main/Images/dropout.png">
 </p>
 
 Before Regularizing my model have an error on training and testing dataset as follows:
